@@ -1,0 +1,17 @@
+{
+    "name": "kimit/crud",
+    "description": "this for student in g194 at kimit academy",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Kimit\\Crud\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "pierreemad93",
+            "email": "pierreemad93@outlook.com"
+        }
+    ],
+    "require": {}
+}
