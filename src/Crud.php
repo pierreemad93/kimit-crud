@@ -1,6 +1,6 @@
 <?php
 use PDO ;
-abstract class CRUD
+abstract class Crud
 {
    protected $connection;
    protected $query;
